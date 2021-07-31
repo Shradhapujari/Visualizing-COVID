@@ -1,5 +1,5 @@
 # Visualizing-COVID
-Visualizing the impact if COVID-19 on the countries of Asia using data visualization techniques
+Visualizing the impact of COVID-19 on the countries of Asia using data visualization techniques
 
 # Libraries Used
     Pandas
@@ -19,6 +19,6 @@ This dataset contains data on a daily basis for all the countries. The data has 
     Visualization library: Ploty (https://plotly.com/)
 
 # Plots 
-   1. Parallel Co-ordinates plot: To see how hospital systems (i.e. beds) in a EU countries affect death rate and what is the pattern between median age people, population, and death rate.
-   2. Pie Chart plot: Created for the continent of Europe, which will include the percentage of tests carried out by that country compared to the whole of Europe. The more the tests performed in a country, the more reliable the numbers (i.e. total cases) are.
-   3. Choropleth map plot: To see the death rate of the covid-19. The EU countries map is colored on the basis of the death rate.
+   1. Parallel Co-ordinates plot: To see how hospital systems (i.e. beds) in a Asian countries affect death rate and what is the pattern between median age people, population, and death rate.
+   2. Pie Chart plot: Created for the continent of Asia, which will include the percentage of tests carried out by that country compared to the whole of Europe. The more the tests performed in a country, the more reliable the numbers (i.e. total cases) are.
+   3. Choropleth map plot: To see the death rate of the covid-19. The Asian countries map is colored on the basis of the death rate.
