@@ -1,5 +1,5 @@
 # Visualizing-COVID
-Visualizing the impact if COVID-19 on the countries of EU, Asia and the World using data visualization techniques
+Visualizing the impact if COVID-19 on the countries of Asia using data visualization techniques
 
 # Libraries Used
     Pandas
